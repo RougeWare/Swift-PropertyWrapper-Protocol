@@ -1,5 +1,5 @@
 //
-//  PropertyWrapper_Protocol.swift
+//  PropertyWrapper.swift
 //  PropertyWrapper Protocol
 //
 //  Created by Ben Leggiero on 2019-09-23.
